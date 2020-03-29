@@ -6,3 +6,6 @@ Ce Projet a pour but de m'habituer à l'utilisation de Git et de Github dans le 
 Les commandes sont disponibles sur [Ici](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet").
 
   1.BLET Jean-Baptiste
+
+Ajout d'une précision
+
